@@ -124,8 +124,11 @@ body {
   color: #fff;
   line-height: 1.5em;
   font-size: 1.6em;
-  background-color: #f16059;
+  background-color: green;
   height: 300px;
+  border-style: solid;
+  border-left: gray;
+  border-width: 1px;
 }
 
 
